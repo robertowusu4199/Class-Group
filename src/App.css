@@ -1,0 +1,15 @@
+.details {
+  width: 30%;
+  padding: 25px;
+  color: black;
+  
+}
+
+input { width: 450px;
+  border-radius: 5px;
+  padding: 10px 15px; 
+  border: 1px solid black;
+  margin: 8px 0;
+  border-radius: 5px;
+  
+}
